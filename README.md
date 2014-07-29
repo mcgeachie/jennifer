@@ -1,1 +1,3 @@
-Blah blah blah
+WIP
+
+npm install && bower install
